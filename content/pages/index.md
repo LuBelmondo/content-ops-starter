@@ -26,7 +26,7 @@ sections:
       text: Succes de scandale
       color: text-dark
       type: TitleBlock
-    subtitle: Succes de scandale
+    subtitle: Por Lumía Belmondo´
     text: >
       ![](/images/PeraPera_01.jpg)Perá, perá, no tomes aire. Sí, el grabador
       encendelo, porque la historia no es como la leíste en los diarios. Ni
