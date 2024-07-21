@@ -36,10 +36,6 @@ sections:
       más vale que te salga bien porque lo que te voy a contar es gordo… Bah,
       qué sé yo, supongo que cambiará un poco la perspectiva. Entonces, primero
       dejá que te cuente cómo fue y después vos me preguntás lo que quieras.
-    badge:
-      label: Contact Us
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
