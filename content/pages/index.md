@@ -7,7 +7,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: Numbers Done
+        subtitle: ''
         text: |
           ![](/images/PeraPera_01.jpg)
         actions: []
