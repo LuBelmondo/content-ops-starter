@@ -55,7 +55,6 @@ sections:
       subtitle:
         textAlign: center
   - posts:
-      - content/pages/blog/case-study-2.md
       - content/pages/blog/case-study-3.md
     showThumbnail: true
     showDate: true
