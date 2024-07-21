@@ -23,7 +23,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Generic Section With A Form
+      text: Succes de scandale
       color: text-dark
       type: TitleBlock
     subtitle: Succes de scandale
