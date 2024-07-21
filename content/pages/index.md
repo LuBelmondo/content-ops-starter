@@ -9,7 +9,7 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          ## ![](/images/PeraPera_01.jpg)Perá, perá, no tomes aire. Sí, el
+          # ![](/images/PeraPera_01.jpg)Perá, perá, no tomes aire. Sí, el
           grabador encendelo, porque la historia no es como la leíste en los
           diarios. Ni siquiera es así lo que yo dije en su momento. Te voy a
           contar otra historia y esto no va a ser una nota de la revista
