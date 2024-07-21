@@ -26,7 +26,7 @@ sections:
       text: Generic Section With A Form
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Succes de scandale
     text: >
       ![](/images/PeraPera_01.jpg)Perá, perá, no tomes aire. Sí, el grabador
       encendelo, porque la historia no es como la leíste en los diarios. Ni
