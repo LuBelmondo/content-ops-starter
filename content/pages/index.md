@@ -42,7 +42,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/PeraPera_01.jpg
           altText: Business consulting
           elementId: ''
           styles:
