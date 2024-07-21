@@ -9,7 +9,7 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          # ![](/images/PeraPera_01.jpg)\<sub>Perá, perá, no tomes aire. Sí, el
+          # ![](/images/PeraPera_01.jpg)Perá, perá, no tomes aire. Sí, el
           grabador encendelo, porque la historia no es como la leíste en los
           diarios. Ni siquiera es así lo que yo dije en su momento. Te voy a
           contar otra historia y esto no va a ser una nota de la revista
@@ -17,7 +17,7 @@ sections:
           la revista del domingo. Y más vale que te salga bien porque lo que te
           voy a contar es gordo… Bah, qué sé yo, supongo que cambiará un poco la
           perspectiva. Entonces, primero dejá que te cuente cómo fue y después
-          vos me preguntás lo que quieras.\</sub>
+          vos me preguntás lo que quieras.
 
         actions: []
         elementId: null
