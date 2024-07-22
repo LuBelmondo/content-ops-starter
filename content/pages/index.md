@@ -26,7 +26,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: full
+            borderRadius: none
             flexDirection: col
         image:
           type: ImageBlock
