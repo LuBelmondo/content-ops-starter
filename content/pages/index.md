@@ -49,7 +49,6 @@ sections:
           que yo dije en su momento. Te voy a contar 
         image:
           type: ImageBlock
-          url: /images/PeraPera_01.jpg
           altText: Image alt text placeholder
           elementId: ''
           styles:
