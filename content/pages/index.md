@@ -39,6 +39,33 @@ sections:
           styles:
             self:
               borderRadius: medium
+      - type: FeaturedItem
+        title: text
+        tagline: ''
+        subtitle: ''
+        text: >
+          Perá, perá, no tomes aire. Sí, el grabador encendelo, porque la
+          historia no es como la leíste en los diarios. Ni siquiera es así lo
+          que yo dije en su momento. Te voy a contar 
+        image:
+          type: ImageBlock
+          url: /images/PeraPera_01.jpg
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
