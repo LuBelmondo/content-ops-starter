@@ -24,10 +24,10 @@ sections:
             padding:
               - pt-8
               - pl-8
-              - pb-8
+              - pb-20
               - pr-8
             borderRadius: none
-            flexDirection: row
+            flexDirection: col
             borderWidth: 0
         image:
           type: ImageBlock
