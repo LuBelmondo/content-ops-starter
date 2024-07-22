@@ -28,7 +28,7 @@ sections:
               - pr-8
             borderRadius: none
             flexDirection: col
-            borderWidth: 8
+            borderWidth: 0
         image:
           type: ImageBlock
           url: /images/PeraPera_01.jpg
